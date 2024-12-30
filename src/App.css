@@ -1,0 +1,14 @@
+h1{
+  color : brown;
+  text-align: center;
+  background-color: gray;
+  font-size: xx-large;
+  margin-top: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 50px;
+  border-radius: 15%;
+}
+  h1:hover{
+    color : green;
+  }
